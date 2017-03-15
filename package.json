@@ -6,7 +6,6 @@
   "description": "Beep boop beep boop",
   "dependencies": {
     "hubot": "^2.19.0",
-    "hubot-business-cat": "^1.5.5",
     "hubot-diagnostics": "0.0.1",
     "hubot-fliptable": "~1.2.0",
     "hubot-help": "^0.2.0",
