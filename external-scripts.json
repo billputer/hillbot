@@ -6,6 +6,5 @@
   "hubot-plusplus",
   "hubot-pugme",
   "hubot-redis-brain",
-  "hubot-rules",
-  "hubot-soon"
+  "hubot-rules"
 ]
