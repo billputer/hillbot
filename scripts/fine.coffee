@@ -1,3 +1,11 @@
+# Description:
+#   Posts gunshowcomic in response to "this is fine"
+#
+# Commands:
+#   this is fine
+#
+# Author:
+#   billputer
 
 module.exports = (robot) ->
 
