@@ -7,18 +7,16 @@
   "dependencies": {
     "hubot": "^3.0.1",
     "hubot-diagnostics": "0.0.2",
-    "hubot-fliptable": "~1.2.0",
+    "hubot-fliptable": "^1.2.0",
     "hubot-help": "^0.2.2",
     "hubot-heroku-keepalive": "^1.0.3",
     "hubot-insulter": "^1.0.2",
-    "hubot-plusplus": "^1.2.3",
-    "hubot-pugme": "^0.1.1",
+    "hubot-plusplus": "^1.4.0",
     "hubot-redis-brain": "0.0.3",
-    "hubot-rules": "^0.1.2",
-    "hubot-scripts": "^2.16.2",
+    "hubot-scripts": "^2.17.2",
     "hubot-slack": "^4.4.0"
   },
   "engines": {
-    "node": "7.x"
+    "node": "6.x"
   }
 }
